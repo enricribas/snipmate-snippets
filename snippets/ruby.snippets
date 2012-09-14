@@ -922,3 +922,7 @@ snippet aft
 	after :${1:each} do
 		${2}
 	end
+snippet pry
+	## FIXME Remove this before pushing!
+	binding.pry unless Rails.env.production? || Rails.env.staging?
+	## FIXME Remove this before pushing!
