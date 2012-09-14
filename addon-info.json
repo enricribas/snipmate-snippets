@@ -3,8 +3,6 @@
   "author" : "community",
   "maintainer" : "honza @ github & others",
   "repository" : {"type": "git", "url": "git://github.com/honza/snipmate-snippets.git"},
-  "dependencies" : {
-    "snipmate": {}
-  },
+  "dependencies" : {},
   "description" : "community driven set of snippets for snipmate"
 }
